@@ -53,14 +53,10 @@ npm run start
 
 ## 👥 Author and contributors
 
-* [@tonyG433](https://github.com/tonyG433)
+* [@Benjamin Lewis](https://github.com/lewisbenj)
 
 If you want to be a **developer** then DM me on Discord (tonyG#0001) or you could contribute directly by Pull Requests. Please note you **cannot** withdraw the credits, unless you donate me a small sum 
 
-## 📝 License
-
-This project is [MIT](https://opensource.org/licenses/MIT) licensed
-
 
 *** 
-Made with ❤️ by [BotReadmeTemplate](https://github.com/tonyG433/DiscordBotReadmeTemplate)
+Made with ❤️ by [Lewis](https://github.com/lewisbenj)
